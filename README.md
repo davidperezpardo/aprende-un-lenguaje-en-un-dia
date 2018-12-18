@@ -127,6 +127,35 @@ int main() { //función principal
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+``` c
+#include <stdio.h>
+int main()
+{
+    int i, o, altura, k=0;
+
+    printf("Dime la altura que quiere para su piramide: ");
+    scanf("%d",&altura);
+
+    for(i=1; i<=altura; ++i, k=0)
+    {
+        for(o=1; o<=altura-i; ++o)
+        {
+            printf("  ");
+        }
+
+        while(k != 2*i-1)
+        {
+            printf("* ");
+            ++k;
+        }
+
+        printf("\n");
+    }
+    
+    return 0;
+}
+
+```
 
 ### 3. Arrays y números aleatorios
 
