@@ -113,6 +113,16 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 ### 1. ¡Hola mundo!
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+```
+#include <stdio.h> //archivo de cabecera que contiene las funciones...
+#include <conio.h> //para usar getch
+
+int main() { //función principal
+    printf("Hola Mundo"); //impresión del programa
+    getch(); //pausa
+    return 0; //le dice al sistema operativo que el programa ha finalizado correctamente
+}
+```
 
 ### 2. Pirámide
 
