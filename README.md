@@ -44,7 +44,7 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-<bold>Cuándo y para qué se creó </bold>
+<h3>Cuándo y para qué se creó </h3>
 
 El lenguaje de programación C fue creado por Brian Kernighan y Dennis Ritchie a mediados de los años 70. Cuando trabajaban en Bell Laboratories de AT&T en el diseño del sistema operativo UNIX. C fue creado para poder escribir dicho sistema operativo en un lenguaje de alto nivel, independiente del hardware donde se ejecutara.
 
@@ -58,17 +58,18 @@ https://www.tiobe.com/tiobe-index/ .Los grandes gigantes de la informática, en 
 
 Principales ventajas 
 
-El lenguaje C ha sido pensado para ser altamente transportable.
+<ul><li>El lenguaje C ha sido pensado para ser altamente transportable.</li>
 
-Un núcleo del lenguaje simple, con funcionalidades añadidas importantes, como funciones matemáticas y de manejo de archivos, proporcionadas por bibliotecas.
+<li>Un núcleo del lenguaje simple, con funcionalidades añadidas importantes, como funciones matemáticas y de manejo de archivos, proporcionadas por bibliotecas.</li>
 
-Es un lenguaje muy flexible que permite programar con múltiples estilos. Uno de los más empleados es el estructurado.
+<li>Es un lenguaje muy flexible que permite programar con múltiples estilos. Uno de los más empleados es el estructurado.</li>
 
-Un conjunto reducido de palabras clave.
+<li>Un conjunto reducido de palabras clave.</li>
 
-Proporciona una gran flexibilidad de programación y una muy baja comprobación de incorrecciones
+<li>Proporciona una gran flexibilidad de programación y una muy baja comprobación de incorrecciones</li>
 
-El lenguaje C no es rígido en la comprobación de tipos de datos, permitiendo fácilmente la conversión entre diferentes tipos de datos y la asignación entre tipos de datos diferentes.
+<li>El lenguaje C no es rígido en la comprobación de tipos de datos, permitiendo fácilmente la conversión entre diferentes tipos de datos y la asignación entre tipos de datos diferentes.</li>
+</ul>
 
 Algunos de los principales IDE para C
 Dev-C++
