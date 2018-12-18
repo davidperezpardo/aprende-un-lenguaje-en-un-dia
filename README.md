@@ -91,7 +91,7 @@ C es uno de los lenguajes más utilizados como podemos ver en la web de <a href=
 
 ## Herramientas de desarrollo
 
-Hemos usado el programa Dev-C++, el cuál sirve también para C.
+Hemos usado el programa <strong><em>Dev-C++</em></strong>, el cuál sirve también para C.
 En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a <em>"File -> New -> Source file"</em><br>
 <img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura1.PNG" alt = "crear proyecto nuevo" width="50%">
 <br>
