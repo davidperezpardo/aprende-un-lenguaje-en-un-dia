@@ -46,14 +46,13 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 <h3>Cuándo y para qué se creó </h3>
 
-El lenguaje de programación C fue creado por Brian Kernighan y Dennis Ritchie a mediados de los años 70. Cuando trabajaban en Bell Laboratories de AT&T en el diseño del sistema operativo UNIX. C fue creado para poder escribir dicho sistema operativo en un lenguaje de alto nivel, independiente del hardware donde se ejecutara.
+El lenguaje de programación C fue creado por <strong>Brian Kernighan y Dennis Ritchie</strong> a mediados de los años 70. Cuando trabajaban en Bell Laboratories de AT&T en el diseño del sistema operativo UNIX. C fue creado para poder escribir dicho sistema operativo en un lenguaje de alto nivel, independiente del hardware donde se ejecutara.
 
 Contar con un lenguaje de alto nivel permitió el avance de los sistemas operativos, ya que el mismo código podía ser utilizado en las distintas plataformas, propiciando la reutilización de código y reduciendo los tiempos de desarrollo. Así es que los sistemas operativos basados en UNIX, el sistema BSD, el sistema GNU/Linux y muchos otros fueron desarrollados en C.
 
 <h3>Ambitos en los que se utiliza</h3>
 
-C es uno de los lenguajes más utilizados como podemos ver en la web de TIOBE
-https://www.tiobe.com/tiobe-index/ .Los grandes gigantes de la informática, en sus aplicaciones y en sus sistemas implantados con mayor éxito podemos ver como C y C++ barren a la competencia. En el ámbito de sistemas operativos donde la velocidad es un parámetro crucial los más grandes usan mayoritariamente C junto con algo de C++ en el caso de Windows y Objective-C en el de Mac OS X.
+C es uno de los lenguajes más utilizados como podemos ver en la web de <a href="https://www.tiobe.com/tiobe-index/">TIOBE</a>. Los grandes gigantes de la informática, en sus aplicaciones y en sus sistemas implantados con mayor éxito podemos ver como C y C++ barren a la competencia. En el ámbito de sistemas operativos donde la velocidad es un parámetro crucial los más grandes usan mayoritariamente C junto con algo de C++ en el caso de Windows y Objective-C en el de Mac OS X.
 
 
 <h3>Principales ventajas</h3>
@@ -72,16 +71,17 @@ https://www.tiobe.com/tiobe-index/ .Los grandes gigantes de la informática, en 
 </ul>
 
 <h3>Algunos de los principales IDE para C</h3>
-<ul><li>Dev-C++</li>
+<ol><li>Dev-C++</li>
   <li>Code::Blocks</li>
   <li>Visual C++</li>
   <li>C++Builder</li>
-  </ul>
+  </ol>
 
 
 <h3>Paginas y enlaces relacionados</h3>
 
-https://www.abrirllave.com/c/guia-de-uso-de-dev-c-plus-plus.php
+<a href="https://www.abrirllave.com/c/guia-de-uso-de-dev-c-plus-plus.php"> abrir llave</a>
+
 
 https://es.wikihow.com/aprender-a-programar-en-C
 
