@@ -153,21 +153,64 @@ int main()
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 ``` c
-#include <stdio.h>
-#include <stdlib.h>
+#include <stdio.h>		//para usar printf
+#include <stdlib.h>	
+#include <stdbool.h>	//para poder usar boolean
+int main(int argc, char *argv[]) {
+		srand(time(NULL)); //va cambiando los numeros aleatorios
+		int array [20];
+		int arrayPrimos [20];
+		int arrayNoPrimos [20];
+		int contaPrimos = 0;
+		int contaNoPrimos = 0;
+		
+		bool esPrimo;
+		
+		printf("ARRAY ORIGINAL\n\n");
+		int i;
+		for( i=0; i<20; i++) {
+			array[i] = rand()%100+1; //numeros aleatorios 1-100
+			printf("%4d|",array[i]);
+		}
+		
+		printf("\n\nARRAY ORDENADO: numeros primos empezando por la izquierda,seguidos de los no primos\n\n");
+		
+		for( i=0; i<20; i++) {
+			esPrimo=true;
+			int j;
+			for( j=2; j<array[i] && esPrimo; j++) {
+				if(array[i]%j == 0) { //si no es primo
+					esPrimo = false;
+				
+				}	
+			}
+			if(esPrimo) { //si es primo
+				
+				arrayPrimos[contaPrimos] = array[i]; //se guarda el primo en el array
+			  contaPrimos++; //contador para el indice del array de los primos
+			}
+			else {
+				arrayNoPrimos[contaNoPrimos] = array[i]; //se guardan los no primos en el array
+				contaNoPrimos++; //contador para el indice de los no primos
+			}
+		
+		}
+		for( i=0; i<contaPrimos; i++) {
+			array[i] = arrayPrimos[i]; //guardamos los primos en array original desde posicion 0
+		}
+		for( i=0; i<contaNoPrimos; i++) { //guardamos los no primos en array original 
+			array[contaPrimos+i] = arrayNoPrimos[i]; //desde la siguiente posicion del ultimo primo
+		}
+		
+		for( i=0; i<20; i++) {
+			printf("%4d|",array[i]); //array final primos y no primos por pantalla
+		}
+	
+	
+	return 0;
 
-int main() {
-    int numeroAleatorio[19]; //se crea un array con 20 huecos
-    int i;
-    
-    for (i=0; i<=19; i++) {
-        numeroAleatorio[i] = rand()%101; // se llena de numeros aleatorios entre el 0 y el 100
-    }
 
-    for (i=0; i<=19; i++) {
-        printf("Aleatorio %d vale: %d\n", i, numeroAleatorio[i]);
-    }
-    return 0;
+
 }
 ```
 
