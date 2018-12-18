@@ -131,6 +131,27 @@ Dada una altura introducida por el usuario, realiza un programa que pinte una pi
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
+``` c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    int numeroAleatorio[19]; //se crea un array con 20 huecos
+    int i;
+
+    
+    for (i=0; i<=19; i++) {
+        numeroAleatorio[i] = rand()%101; // se llena de numeros aleatorios entre el 0 y el 100
+    }
+
+    for (i=0; i<=19; i++) {
+        printf("Aleatorio %d vale: %d\n", i, numeroAleatorio[i]);
+    }
+
+    return 0;
+
+}
+```
 
 ## Presentación de resultados
 
