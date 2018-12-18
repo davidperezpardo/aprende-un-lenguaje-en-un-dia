@@ -80,13 +80,13 @@ C es uno de los lenguajes más utilizados como podemos ver en la web de <a href=
 
 <h3>Paginas y enlaces relacionados</h3>
 
-<a href="https://www.abrirllave.com/c/guia-de-uso-de-dev-c-plus-plus.php"> Abrir llave</a>
-<a href="https://es.wikihow.com/aprender-a-programar-en-C"> Wikihow</a>
-<a href="https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf"> Universidad de Valencia </a>
-<a href="https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C"> Wikibooks </a>
-<a href="https://es.scribd.com/doc/141304397/Curso-de-C-para-dummies-pdf"> Scribd </a>
-<a href="https://sites.google.com/site/lenguajecprogramacion/ventajas-y-desventajas"> Sites google </a>
-<a href="https://www.headsem.com/mejores-ide-para-programar-en-c/"> Headsem </a>
+<a href="https://www.abrirllave.com/c/guia-de-uso-de-dev-c-plus-plus.php"> Abrir llave</a><br>
+<a href="https://es.wikihow.com/aprender-a-programar-en-C"> Wikihow</a><br>
+<a href="https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf"> Universidad de Valencia </a><br>
+<a href="https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C"> Wikibooks </a><br>
+<a href="https://es.scribd.com/doc/141304397/Curso-de-C-para-dummies-pdf"> Scribd </a><br>
+<a href="https://sites.google.com/site/lenguajecprogramacion/ventajas-y-desventajas"> Sites google </a><br>
+<a href="https://www.headsem.com/mejores-ide-para-programar-en-c/"> Headsem </a><br>
 
 
 ## Herramientas de desarrollo
