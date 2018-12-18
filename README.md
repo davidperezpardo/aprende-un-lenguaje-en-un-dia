@@ -138,7 +138,6 @@ Realiza un programa que rellene un array (o una estructura similar) con 20 núme
 int main() {
     int numeroAleatorio[19]; //se crea un array con 20 huecos
     int i;
-
     
     for (i=0; i<=19; i++) {
         numeroAleatorio[i] = rand()%101; // se llena de numeros aleatorios entre el 0 y el 100
@@ -147,9 +146,7 @@ int main() {
     for (i=0; i<=19; i++) {
         printf("Aleatorio %d vale: %d\n", i, numeroAleatorio[i]);
     }
-
     return 0;
-
 }
 ```
 
