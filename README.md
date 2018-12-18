@@ -50,13 +50,13 @@ El lenguaje de programación C fue creado por Brian Kernighan y Dennis Ritchie a
 
 Contar con un lenguaje de alto nivel permitió el avance de los sistemas operativos, ya que el mismo código podía ser utilizado en las distintas plataformas, propiciando la reutilización de código y reduciendo los tiempos de desarrollo. Así es que los sistemas operativos basados en UNIX, el sistema BSD, el sistema GNU/Linux y muchos otros fueron desarrollados en C.
 
-Ambitos en los que se utiliza
+<h3>Ambitos en los que se utiliza</h3>
 
 C es uno de los lenguajes más utilizados como podemos ver en la web de TIOBE
 https://www.tiobe.com/tiobe-index/ .Los grandes gigantes de la informática, en sus aplicaciones y en sus sistemas implantados con mayor éxito podemos ver como C y C++ barren a la competencia. En el ámbito de sistemas operativos donde la velocidad es un parámetro crucial los más grandes usan mayoritariamente C junto con algo de C++ en el caso de Windows y Objective-C en el de Mac OS X.
 
 
-Principales ventajas 
+<h3>Principales ventajas</h3>
 
 <ul><li>El lenguaje C ha sido pensado para ser altamente transportable.</li>
 
@@ -71,15 +71,15 @@ Principales ventajas
 <li>El lenguaje C no es rígido en la comprobación de tipos de datos, permitiendo fácilmente la conversión entre diferentes tipos de datos y la asignación entre tipos de datos diferentes.</li>
 </ul>
 
-Algunos de los principales IDE para C
-Dev-C++
-Code::Blocks
-Visual C++
-C++Builder
+<h3>Algunos de los principales IDE para C</h3>
+<ul><li>Dev-C++</li>
+  <li>Code::Blocks</li>
+  <li>Visual C++</li>
+  <li>C++Builder</li>
+  </ul>
 
 
-
-Paginas y enlaces relacionados
+<h3>Paginas y enlaces relacionados</h3>
 
 https://www.abrirllave.com/c/guia-de-uso-de-dev-c-plus-plus.php
 
