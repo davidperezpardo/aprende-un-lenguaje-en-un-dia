@@ -99,13 +99,13 @@ https://www.headsem.com/mejores-ide-para-programar-en-c/
 ## Herramientas de desarrollo
 
 Hemos usado el programa Dev-C++, el cuál sirve también para C.
-En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a <em>"File -> New -> Source file"</em>
-<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura1.PNG" alt = "crear proyecto nuevo" width="50%">
+En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a <em>"File -> New -> Source file"</em><br>
+<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura1.PNG" alt = "crear proyecto nuevo" width="50%"  align="center">
 <br>
-Seguidamente guardamos el proyecto para que nos "colorée" las palabras de forma automática. Debemos tener en cuanta que a la hora de guardar, debemos escoger el tipo de fichero en <strong>.c</strong>.
-<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura2.PNG" alt="guardar un proyecto" width="50%">
+Seguidamente guardamos el proyecto para que nos "colorée" las palabras de forma automática. Debemos tener en cuanta que a la hora de guardar, debemos escoger el tipo de fichero en <strong>.c</strong>.<br>
+<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura2.PNG" alt="guardar un proyecto" width="50%" align="center">
 <br>
-A continuación, escribimos nuestro programa.
+A continuación, escribimos nuestro programa.<br>
 <img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura3.PNG" alt = "escribir el programa en el IDE" width = "50%" align="center">
 
 
