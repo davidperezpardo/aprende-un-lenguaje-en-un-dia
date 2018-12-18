@@ -100,13 +100,17 @@ https://www.headsem.com/mejores-ide-para-programar-en-c/
 
 Hemos usado el programa Dev-C++, el cuál sirve también para C.
 En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a <em>"File -> New -> Source file"</em><br>
-<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura1.PNG" alt = "crear proyecto nuevo" width="50%"  align="center">
+<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura1.PNG" alt = "crear proyecto nuevo" width="50%">
 <br>
 Seguidamente guardamos el proyecto para que nos "colorée" las palabras de forma automática. Debemos tener en cuanta que a la hora de guardar, debemos escoger el tipo de fichero en <strong>.c</strong>.<br>
-<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura2.PNG" alt="guardar un proyecto" width="50%" align="center">
+<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura2.PNG" alt="guardar un proyecto" width="50%">
 <br>
 A continuación, escribimos nuestro programa.<br>
-<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura3.PNG" alt = "escribir el programa en el IDE" width = "50%" align="center">
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura3.PNG" alt = "escribir el programa en el IDE" width = "50%"><br>
+Compilamos el programa para poder ejecutarlo.<br>
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura4.PNG" alt = "compilar" width="50%"><br>
+Finalmente ejecutamos el código que hemos compilado y debería salirnos bien si no tenemos ningún error.<br>
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura5.PNG" alt = "ejecución" width="50%"><br>
 
 
 ## Poniendo en práctica el lenguaje
