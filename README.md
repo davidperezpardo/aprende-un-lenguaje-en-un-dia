@@ -48,7 +48,8 @@ Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe 
 
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+Hemos usado el programa Dev-C++, el cuál sirve también para C.
+En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>
 
 ## Poniendo en práctica el lenguaje
 
