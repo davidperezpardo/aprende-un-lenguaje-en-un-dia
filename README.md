@@ -44,7 +44,56 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+<bold>Cuándo y para qué se creó </bold>
+
+El lenguaje de programación C fue creado por Brian Kernighan y Dennis Ritchie a mediados de los años 70. Cuando trabajaban en Bell Laboratories de AT&T en el diseño del sistema operativo UNIX. C fue creado para poder escribir dicho sistema operativo en un lenguaje de alto nivel, independiente del hardware donde se ejecutara.
+
+Contar con un lenguaje de alto nivel permitió el avance de los sistemas operativos, ya que el mismo código podía ser utilizado en las distintas plataformas, propiciando la reutilización de código y reduciendo los tiempos de desarrollo. Así es que los sistemas operativos basados en UNIX, el sistema BSD, el sistema GNU/Linux y muchos otros fueron desarrollados en C.
+
+Ambitos en los que se utiliza
+
+C es uno de los lenguajes más utilizados como podemos ver en la web de TIOBE
+https://www.tiobe.com/tiobe-index/ .Los grandes gigantes de la informática, en sus aplicaciones y en sus sistemas implantados con mayor éxito podemos ver como C y C++ barren a la competencia. En el ámbito de sistemas operativos donde la velocidad es un parámetro crucial los más grandes usan mayoritariamente C junto con algo de C++ en el caso de Windows y Objective-C en el de Mac OS X.
+
+
+Principales ventajas 
+
+El lenguaje C ha sido pensado para ser altamente transportable.
+
+Un núcleo del lenguaje simple, con funcionalidades añadidas importantes, como funciones matemáticas y de manejo de archivos, proporcionadas por bibliotecas.
+
+Es un lenguaje muy flexible que permite programar con múltiples estilos. Uno de los más empleados es el estructurado.
+
+Un conjunto reducido de palabras clave.
+
+Proporciona una gran flexibilidad de programación y una muy baja comprobación de incorrecciones
+
+El lenguaje C no es rígido en la comprobación de tipos de datos, permitiendo fácilmente la conversión entre diferentes tipos de datos y la asignación entre tipos de datos diferentes.
+
+Algunos de los principales IDE para C
+Dev-C++
+Code::Blocks
+Visual C++
+C++Builder
+
+
+
+Paginas y enlaces relacionados
+
+https://www.abrirllave.com/c/guia-de-uso-de-dev-c-plus-plus.php
+
+https://es.wikihow.com/aprender-a-programar-en-C
+
+https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf
+
+https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C
+
+https://es.scribd.com/doc/141304397/Curso-de-C-para-dummies-pdf
+
+https://sites.google.com/site/lenguajecprogramacion/ventajas-y-desventajas
+
+https://www.headsem.com/mejores-ide-para-programar-en-c/
+
 
 ## Herramientas de desarrollo
 
