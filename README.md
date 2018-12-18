@@ -100,7 +100,7 @@ https://www.headsem.com/mejores-ide-para-programar-en-c/
 
 Hemos usado el programa Dev-C++, el cuál sirve también para C.
 En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a "File -> New -> Source file"
-<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura1.PNG">
+<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura1.PNG" alt = "crear proyecto nuevo" width="50%">
 aksjalksjalkdsjdlas
 
 ## Poniendo en práctica el lenguaje
