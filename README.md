@@ -99,7 +99,8 @@ https://www.headsem.com/mejores-ide-para-programar-en-c/
 ## Herramientas de desarrollo
 
 Hemos usado el programa Dev-C++, el cuál sirve también para C.
-En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a "File -> 
+En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a "File -> New -> Source file"
+<img src = "
 
 ## Poniendo en práctica el lenguaje
 
