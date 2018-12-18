@@ -105,6 +105,8 @@ En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descar
 Seguidamente guardamos el proyecto para que nos "colorée" las palabras de forma automática. Debemos tener en cuanta que a la hora de guardar, debemos escoger el tipo de fichero en <strong>.c</strong>.
 <img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura2.PNG" alt="guardar un proyecto" width="50%">
 <br>
+A continuación, escribimos nuestro programa.
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura3.PNG" alt = "escribir el programa en el IDE" width = "50%" align="center">
 
 
 ## Poniendo en práctica el lenguaje
