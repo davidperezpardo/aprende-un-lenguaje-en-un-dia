@@ -49,7 +49,7 @@ Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe 
 ## Herramientas de desarrollo
 
 Hemos usado el programa Dev-C++, el cuál sirve también para C.
-En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>
+En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a "File -> 
 
 ## Poniendo en práctica el lenguaje
 
