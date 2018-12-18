@@ -132,29 +132,21 @@ Dada una altura introducida por el usuario, realiza un programa que pinte una pi
 int main()
 {
     int i, o, altura, k=0;
-
     printf("Dime la altura que quiere para su piramide: ");
     scanf("%d",&altura);
-
-    for(i=1; i<=altura; ++i, k=0)
-    {
-        for(o=1; o<=altura-i; ++o)
-        {
+    for(i=1; i<=altura; ++i, k=0){
+        for(o=1; o<=altura-i; ++o){
             printf("  ");
         }
 
-        while(k != 2*i-1)
-        {
+        while(k != 2*i-1){
             printf("* ");
             ++k;
         }
-
         printf("\n");
     }
-    
     return 0;
 }
-
 ```
 
 ### 3. Arrays y números aleatorios
