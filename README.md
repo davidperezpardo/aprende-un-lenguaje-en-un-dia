@@ -103,7 +103,7 @@ A continuación, escribimos nuestro programa.<br>
 Compilamos el programa para poder ejecutarlo.<br>
 <img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura4.PNG" alt = "compilar" width="50%"><br>
 Finalmente ejecutamos el código que hemos compilado y debería salirnos bien si no tenemos ningún error.<br>
-<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura5.PNG" alt = "ejecución" width="50%"><br>
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura5.PNG" alt = "ejecución" width="100%"><br>
 
 
 ## Poniendo en práctica el lenguaje
@@ -157,8 +157,8 @@ int main()
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 ``` c
 #include <stdio.h>		//para usar printf
-#include <stdlib.h>	
-#include <stdbool.h>	//para poder usar boolean
+#include <stdlib.h>	       //para poder usar las funciones de numeros aleatorios
+#include <stdbool.h>	      //para poder usar boolean
 int main(int argc, char *argv[]) {
 		srand(time(NULL)); //va cambiando los numeros aleatorios
 		int array [20];
