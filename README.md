@@ -103,7 +103,7 @@ A continuación, escribimos nuestro programa.<br>
 Compilamos el programa para poder ejecutarlo.<br>
 <img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura4.PNG" alt = "compilar" width="50%"><br>
 Finalmente ejecutamos el código que hemos compilado y debería salirnos bien si no tenemos ningún error.<br>
-<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura5.PNG" alt = "ejecución" width="100%"><br>
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura5.PNG" alt = "ejecución" width="50%"><br>
 
 
 ## Poniendo en práctica el lenguaje
@@ -150,7 +150,7 @@ int main()
     return 0;
 }
 ```
-<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura_piramide.PNG" alt = piramide asteriscos width="50%">
+<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura_piramide.PNG" alt = piramide asteriscos width="100%">
 
 ### 3. Arrays y números aleatorios
 
