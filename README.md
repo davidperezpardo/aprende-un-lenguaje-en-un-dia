@@ -216,6 +216,7 @@ int main(int argc, char *argv[]) {
 
 }
 ```
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura%20de%20pantalla%20(77).png" alt="numeros aleatorios y primos" width="100%">
 
 ## Presentación de resultados
 
