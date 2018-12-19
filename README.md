@@ -92,18 +92,18 @@ C es uno de los lenguajes más utilizados como podemos ver en la web de <a href=
 ## Herramientas de desarrollo
 
 Hemos usado el programa <strong><em>Dev-C++</em></strong>, el cuál sirve también para C.
-En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a <em>"File -> New -> Source file"</em><br>
+En primer lugar, <a href="http://sourceforge.net/projects/orwelldevcpp/"> descargamos el programa </a>. Una vez instalado, para crear un nuevo proyecto, nos dirigimos a <em>"File -> New -> Source file"</em><br><br>
 <img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura1.PNG" alt = "crear proyecto nuevo" width="100%">
-<br>
-Seguidamente guardamos el proyecto para que nos "colorée" las palabras de forma automática. Debemos tener en cuanta que a la hora de guardar, debemos escoger el tipo de fichero en <strong>.c</strong>.<br>
+<br><br>
+Seguidamente guardamos el proyecto para que nos "colorée" las palabras de forma automática. Debemos tener en cuanta que a la hora de guardar, debemos escoger el tipo de fichero en <strong>.c</strong>.<br><br>
 <img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura2.PNG" alt="guardar un proyecto" width="100%">
-<br>
-A continuación, escribimos nuestro programa.<br>
-<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura3.PNG" alt = "escribir el programa en el IDE" width = "100%"><br>
-Compilamos el programa para poder ejecutarlo.<br>
-<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura4.PNG" alt = "compilar" width="100%"><br>
-Finalmente ejecutamos el código que hemos compilado y debería salirnos bien si no tenemos ningún error.<br>
-<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura5.PNG" alt = "ejecución" width="100%"><br>
+<br><br>
+A continuación, escribimos nuestro programa.<br><br>
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura3.PNG" alt = "escribir el programa en el IDE" width = "100%"><br><br>
+Compilamos el programa para poder ejecutarlo.<br><br>
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura4.PNG" alt = "compilar" width="100%"><br><br>
+Finalmente ejecutamos el código que hemos compilado y debería salirnos bien si no tenemos ningún error.<br><br>
+<img src="https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura5.PNG" alt = "ejecución" width="100%"><br><br>
 
 
 ## Poniendo en práctica el lenguaje
