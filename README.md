@@ -123,6 +123,8 @@ int main() { //función principal
     return 0; //le dice al sistema operativo que el programa ha finalizado correctamente
 }
 ```
+<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura5.PNG" alt = piramide asteriscos width="50%">
+
 
 ### 2. Pirámide
 
@@ -148,6 +150,7 @@ int main()
     return 0;
 }
 ```
+<img src = "https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia/blob/master/Captura_piramide.PNG" alt = piramide asteriscos width="50%">
 
 ### 3. Arrays y números aleatorios
 
